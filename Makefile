@@ -32,3 +32,9 @@ install-kustomize:
 
 uninstall-kustomize:
 	@/bin/bash ./scripts/setup-kustomize.sh uninstall_kustomize
+
+install-kubectl:
+	@/bin/bash ./scripts/setup-kubectl.sh install_kubectl
+
+uninstall-kubectl:
+	@/bin/bash ./scripts/setup-kubectl.sh uninstall_kubectl

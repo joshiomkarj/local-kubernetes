@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # Copyright 2020 Local-Kubernetes Authors.
 #
 # Copyright 2016 The Kubernetes Authors.
